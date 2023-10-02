@@ -9,6 +9,7 @@
 # 4 -> 1 2 3 4
 # 9
 
+
 n = int(input("Введите количество кустов: "))
 berries = []
 for i in range(n):
